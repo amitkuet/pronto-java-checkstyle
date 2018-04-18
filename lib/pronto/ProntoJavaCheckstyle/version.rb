@@ -1,0 +1,3 @@
+module ProntoJavaCheckstyle
+  VERSION = "0.0.1"
+end
